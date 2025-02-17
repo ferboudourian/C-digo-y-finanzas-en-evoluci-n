@@ -1,1 +1,2 @@
-# C-digo-y-finanzas-en-evoluci-n
+# Código-y-finanzas-en-evolución
+Las superapps financieras están cambiando el acceso a los servicios en mercados emergentes. Estas plataformas centralizan pagos, créditos e inversiones, permitiendo que millones de personas accedan a financiamiento sin necesidad de bancos tradicionales. Con su integración de IA y blockchain, estas herramientas siguen evolucionando, impulsando la innovación y la competitividad en el sector.
